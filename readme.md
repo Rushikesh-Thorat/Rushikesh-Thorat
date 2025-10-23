@@ -20,6 +20,7 @@
 ### Connect with Me
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushithorat3010@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-thorat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Connect-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://rushikeshthorat.netlify.app/)
 
 
 <!-- <div align="center">
